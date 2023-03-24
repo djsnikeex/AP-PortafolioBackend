@@ -2,13 +2,17 @@ com\Portfolio\AdrOnores\Dto\dtoExperiencia.class
 com\Portfolio\AdrOnores\Security\Controller\AuthController.class
 com\Portfolio\AdrOnores\Security\Service\UsuarioService.class
 com\Portfolio\AdrOnores\Security\Repository\iUsuarioRepository.class
+com\Portfolio\AdrOnores\Service\SHyS.class
+com\Portfolio\AdrOnores\Dto\dtoHyS.class
 com\Portfolio\AdrOnores\Entity\Persona.class
 com\Portfolio\AdrOnores\Service\Seducacion.class
 com\Portfolio\AdrOnores\Repository\REducacion.class
 com\Portfolio\AdrOnores\Repository\RExperiencia.class
 com\Portfolio\AdrOnores\Security\Enums\RolNombre.class
+com\Portfolio\AdrOnores\Repository\RHyS.class
 com\Portfolio\AdrOnores\Controller\CExperiencia.class
 com\Portfolio\AdrOnores\Security\jwt\JwtTokenFilter.class
+com\Portfolio\AdrOnores\Entity\HyS.class
 com\Portfolio\AdrOnores\Security\jwt\JwtProvider.class
 com\Portfolio\AdrOnores\Security\Entity\Usuario.class
 com\Portfolio\AdrOnores\Security\Dto\LoginUsuario.class
@@ -19,6 +23,7 @@ com\Portfolio\AdrOnores\Security\Controller\Mensaje.class
 com\Portfolio\AdrOnores\Controller\CEducacion.class
 com\Portfolio\AdrOnores\Security\Repository\iRolRepository.class
 com\Portfolio\AdrOnores\Security\Service\UserDetailsImpl.class
+com\Portfolio\AdrOnores\Controller\CHyS.class
 com\Portfolio\AdrOnores\Entity\Experiencia.class
 com\Portfolio\AdrOnores\Interface\IPersonaService.class
 com\Portfolio\AdrOnores\Repository\IPersonaRepository.class
