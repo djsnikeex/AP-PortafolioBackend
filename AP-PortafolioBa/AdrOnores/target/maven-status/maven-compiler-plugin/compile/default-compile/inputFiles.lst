@@ -1,8 +1,9 @@
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Entity\Experiencia.java
-E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Interface\IPersonaService.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\Controller\Mensaje.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\Entity\UsuarioPrincipal.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\Repository\iRolRepository.java
+E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Dto\dtoProyecto.java
+E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Service\SProyecto.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Controller\CHyS.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\jwt\JwtTokenFilter.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Controller\PersonaController.java
@@ -15,10 +16,13 @@ E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-Portaf
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\Service\RolService.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Dto\dtoExperiencia.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Dto\dtoHyS.java
+E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Repository\RProyecto.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\Dto\NuevoUsuario.java
+E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Dto\dtoPersona.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\MainSecurity.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Controller\CEducacion.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Repository\RHyS.java
+E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Entity\Proyecto.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\Service\UserDetailsImpl.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\Dto\JwtDTO.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Service\SHyS.java
@@ -27,6 +31,7 @@ E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-Portaf
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\Service\UsuarioService.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Security\jwt\JwtEntryPoint.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Service\SExperiencia.java
+E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Controller\CProyecto.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\AdrOnoresApplication.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Repository\RExperiencia.java
 E:\Sistemas\ARGENTINA PROGRAMA\Portafolio-Backend\AP-PortafolioBackend\AP-PortafolioBa\AdrOnores\src\main\java\com\Portfolio\AdrOnores\Entity\HyS.java
