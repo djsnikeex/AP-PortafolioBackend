@@ -59,6 +59,12 @@ public class PersonaController {
         persona.setApellido(dtopersona.getApellido());
         persona.setDescripcion(dtopersona.getDescripcion());
         persona.setImg(dtopersona.getImg());
+        persona.setEmail(dtopersona.getEmail());
+        persona.setCelular(dtopersona.getCelular());
+        persona.setTitulo(dtopersona.getTitulo());
+        persona.setEdad(dtopersona.getEdad());
+        persona.setBanner(dtopersona.getBanner());
+        persona.setCiudad(dtopersona.getCiudad());
         
         personaService.save(persona);
         

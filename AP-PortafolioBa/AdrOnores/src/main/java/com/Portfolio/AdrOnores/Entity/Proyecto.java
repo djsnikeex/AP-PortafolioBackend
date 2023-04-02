@@ -24,14 +24,18 @@ public class Proyecto {
     
     @NotNull
     private String url;
-
+    
+    
+    private String img;
+    
     public Proyecto() {
     }
 
-    public Proyecto(String nombre, String descripcion, String url) {
+    public Proyecto(String nombre, String descripcion, String url, String img) {
         this.nombre = nombre;
         this.descripcion = descripcion;
         this.url = url;
+        this.img= img;
     }
 
     public int getId() {
@@ -65,6 +69,15 @@ public class Proyecto {
     public void setUrl(String url) {
         this.url = url;
     }
+
+    public String getImg() {
+        return img;
+    }
+
+    public void setImg(String img) {
+        this.img = img;
+    }
+    
     
     
     

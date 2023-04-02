@@ -10,14 +10,26 @@ public class dtoProyecto {
     private String descripcion;
     @NotBlank
     private String url;
+    @NotBlank
+    private String img;
 
     public dtoProyecto() {
     }
 
-    public dtoProyecto(String nombre, String descripcion, String url) {
+    public dtoProyecto(String nombre, String descripcion, String url, String img) {
         this.nombre = nombre;
         this.descripcion = descripcion;
         this.url = url;
+        this.img = img;
+    }
+
+
+    public String getImg() {
+        return img;
+    }
+
+    public void setImg(String img) {
+        this.img = img;
     }
 
     public String getNombre() {

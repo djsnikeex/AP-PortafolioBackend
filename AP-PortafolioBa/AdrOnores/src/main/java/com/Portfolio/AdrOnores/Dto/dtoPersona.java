@@ -12,16 +12,86 @@ public class dtoPersona {
     private String descripcion;
     @NotBlank
     private String img;
-
+    @NotBlank
+    private String email; 
+    @NotBlank
+    private Long celular;   
+    @NotBlank
+    private String titulo; 
+    @NotBlank
+    private int edad;
+    @NotBlank
+    private String banner;
+    @NotBlank
+    private String ciudad;
+    
     public dtoPersona() {
     }
 
-    public dtoPersona(String nombre, String apellido, String descripcion, String img) {
+    public dtoPersona(String nombre, String apellido, String descripcion, String img, String email, Long celular, String titulo, int edad, String banner, String ciudad) {
         this.nombre = nombre;
         this.apellido = apellido;
         this.descripcion = descripcion;
         this.img = img;
+        this.email = email;
+        this.celular = celular;
+        this.titulo = titulo;
+        this.edad = edad;
+        this.banner = banner;
+        this.ciudad = ciudad;
     }
+
+    public String getCiudad() {
+        return ciudad;
+    }
+
+    public void setCiudad(String ciudad) {
+        this.ciudad = ciudad;
+    }
+
+    
+
+    public String getBanner() {
+        return banner;
+    }
+
+    public void setBanner(String banner) {
+        this.banner = banner;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public Long getCelular() {
+        return celular;
+    }
+
+    public void setCelular(Long celular) {
+        this.celular = celular;
+    }
+
+    public String getTitulo() {
+        return titulo;
+    }
+
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    
 
     public String getNombre() {
         return nombre;
